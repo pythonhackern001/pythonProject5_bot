@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WEAK WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Tg_bot.waawd.GroupChatBot" />
+          <option value="Tg_bot.Tg_Admins.*" />
+          <option value="list.capitalize" />
+          <option value="tuple.split" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
